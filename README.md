@@ -1,3 +1,3 @@
 # Public
-Hold my public Wiki
+Holds my public Wiki
 https://github.com/LogJamb-Josh/Public/wiki
